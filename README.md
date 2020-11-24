@@ -1,4 +1,4 @@
 # DurU-Natural-Language-Analysis
-Durham University - Course: Natural Language Analysis - Summative Assignment 
+My Postgraduate Course - Natural Language Analysis - Summative Assignment 
 
 Finished independently
